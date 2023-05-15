@@ -1,8 +1,8 @@
 # E-Chat
 A real-time chat application using ASP.NET Core 7, SignalR and KnockoutJS.
 
-![](https://raw.githubusercontent.com/AKouki/SignalR-Chat/main/src/Chat.Web/wwwroot/images/screenshots/1.png)
-![](https://raw.githubusercontent.com/AKouki/SignalR-Chat/main/src/Chat.Web/wwwroot/images/screenshots/2.png)
+![](https://raw.githubusercontent.com/sina1864/E-Chat/main/src/Chat.Web/wwwroot/images/screenshots/1.png)
+![](https://raw.githubusercontent.com/sina1864/E-Chat/main/src/Chat.Web/wwwroot/images/screenshots/2.png)
 
 ## Features
 * Group Chat
